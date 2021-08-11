@@ -23,21 +23,13 @@ cligj==0.5.0
 
 
 comtypes==1.1.10
-conda==4.10.3
-conda-build==3.21.4
 
-conda-verify==3.4.2
 contextlib2==0.6.0.post1
-cryptography @ file:///C:/ci/cryptography_1616769432139/work
 cycler==0.10.0
-Cython @ file:///C:/ci/cython_1626257059178/work
 cytoolz==0.11.0
-dask @ file:///tmp/build/80754af9/dask-core_1627943503496/work
-decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
-defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
-diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
+
 distlib==0.3.1
-distributed @ file:///C:/ci/distributed_1628001686636/work
+
 dj-database-url==0.5.0
 Django==3.1.4
 django-allauth==0.41.0
@@ -74,10 +66,6 @@ heroku==0.1.4
 
 jdcal==1.4.1
 jedi==0.14.1
-
-jupyter==1.0.0
-
-jupyterthemes==0.20.0
 jwcrypto==0.8
 
 lesscpy==0.14.0
@@ -107,9 +95,6 @@ patsy==0.5.1
 pdfkit==0.6.1
 pep8==1.7.1
 pkginfo==1.7.1
-
-ply==3.11
-plyer==2.0.0
 prettytable==0.7.2
 
 protobuf==3.13.0
@@ -149,8 +134,6 @@ simplegeneric==0.8.1
 social-auth-app-django==4.0.0
 social-auth-core==4.1.0
 
-spyder==4.0.1
-spyder-kernels==1.8.1
 
 statsmodels==0.12.2
 stripe==2.56.0
